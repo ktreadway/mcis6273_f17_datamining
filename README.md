@@ -2,6 +2,8 @@
 
 This repository will be the content  repository for this course.
 
+* please start [with the **syllabus**](./syllabus/syllabus.md) to find out the content and flow of the course
+
 There are two main areas :
 
 * [**homework**](./homework): the place where homeworks will live
