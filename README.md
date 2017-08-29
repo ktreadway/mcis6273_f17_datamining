@@ -1,6 +1,6 @@
 # MCIS6272 Fall 2017 | Data Mining
 
-This repository will be the content  repository for this course.
+This is the content  repository for this course.
 
 * please start [with the **syllabus**](./syllabus/syllabus.md) to find out the content and flow of the course
 
