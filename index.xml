@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MCIS6273 Home Page on MCIS6273 | Data Mining | Fall 2017</title>
-    <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/</link>
+    <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/</link>
     <description>Recent content in MCIS6273 Home Page on MCIS6273 | Data Mining | Fall 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://kmsaumcis.github.io/mcis6273_f17_datamining/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmsaumcis.github.io/mcis6273_f17_datamining/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</guid>
       <description>MCIS6273 Data Mining / Fall 2017 / HW0 This assignment is worth up to 20 POINTS to your grade total if you complete it on time.
    Points Possible Due Date Time Commitment (estimated)     20 Wednesday, Sep 06 @ Midnight 4 hours or less     GRADING: Grading will be aligned with the completeness of the objectives.
  INDEPENDENT WORK: Copying, cheating, plagiarism and academic dishonesty are not tolerated by Univerisity or course policy.</description>
@@ -23,127 +23,127 @@
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/01_introduction/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/01_introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/01_introduction/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/01_introduction/</guid>
       <description>LECTURE 1: CLASS POLICIES, TOOLS AND TECHNOLOGIES    Week of 8&amp;frasl;30 Lecture Notes     Content class policies, class tools, introduction, what this course is about, data mining: tools, technologies and techniques   ExpectedOutcomes &amp;#8226; overview of course policies&amp;#8226; overview of data mining concepts, algorithms, methodologies&amp;#8226; installation of Anaconda and Python 3.6&amp;#8226; introduction to Jupyter Notebooks&amp;#8226; creation of Github account   Readings &amp;amp;Supplemental REQUIRED&amp;raquo; 2014.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/02_preprocessing/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/02_preprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/02_preprocessing/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/02_preprocessing/</guid>
       <description>lecture 2 concepts and theory data types numeric categorical binary scaled ordinal source data formats structured xml csv data tables (SQL) json unstructured text *HTML pre-processing cleaning + adjusting scaling discretization normalization imputing missing data techniques delete features (columns) delete instances (rows) interpolation piecewise constant linear polynomial spline regression linear nearest neighbors sampling issues numeric data vs categorical Subtopic 5 application obtaining data with Python csv library requests library pandas processing and manipulating data with Python Subtopic 1 assignment 1   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/03_distance_metrics/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/03_distance_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/03_distance_metrics/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/03_distance_metrics/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/04_pattern_mining/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/04_pattern_mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/04_pattern_mining/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/04_pattern_mining/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/05_clustering_a/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/05_clustering_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/05_clustering_a/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/05_clustering_a/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/06_clustering_b/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/06_clustering_b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/06_clustering_b/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/06_clustering_b/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/07_classification_a_dt_bayes/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/07_classification_a_dt_bayes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/07_classification_a_dt_bayes/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/07_classification_a_dt_bayes/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/08_classification_b_svm_nn/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/08_classification_b_svm_nn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/08_classification_b_svm_nn/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/08_classification_b_svm_nn/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/09_classification_c_prediction_eval/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/09_classification_c_prediction_eval/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/09_classification_c_prediction_eval/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/09_classification_c_prediction_eval/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/10_ensemble_methods/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/10_ensemble_methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/10_ensemble_methods/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/10_ensemble_methods/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/11_visualization/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/11_visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/11_visualization/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/11_visualization/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/12_text_mining/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/12_text_mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/12_text_mining/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/12_text_mining/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/13_big_data/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/13_big_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/notes/13_big_data/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/notes/13_big_data/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Syllabus</title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/syllabus/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/syllabus/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/syllabus/</guid>
       <description>LECTURE 1: CLASS POLICIES, TOOLS AND TECHNOLOGIES    Week of 8&amp;frasl;30 Lecture Notes     Content class policies, class tools, introduction, what this course is about, data mining: tools, technologies and techniques   ExpectedOutcomes &amp;#8226; overview of course policies&amp;#8226; overview of data mining concepts, algorithms, methodologies&amp;#8226; installation of Anaconda and Python 3.6&amp;#8226; introduction to Jupyter Notebooks&amp;#8226; creation of Github account   Readings &amp;amp;Supplemental REQUIRED&amp;raquo; Zaki, Mohammed J and Meira Jr, Wagner;&amp;amp;nbsp;Data mining and analysis: fundamental concepts and algorithms.</description>
     </item>
     

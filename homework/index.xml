@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course Homeworks on MCIS6273 | Data Mining | Fall 2017</title>
-    <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/</link>
+    <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/</link>
     <description>Recent content in Course Homeworks on MCIS6273 | Data Mining | Fall 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</link>
+      <link>https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</guid>
+      <guid>https://kmsaumcis.github.io/mcis6273_f17_datamining/homework/hw0/</guid>
       <description>MCIS6273 Data Mining / Fall 2017 / HW0 This assignment is worth up to 20 POINTS to your grade total if you complete it on time.
    Points Possible Due Date Time Commitment (estimated)     20 Wednesday, Sep 06 @ Midnight 4 hours or less     GRADING: Grading will be aligned with the completeness of the objectives.
  INDEPENDENT WORK: Copying, cheating, plagiarism and academic dishonesty are not tolerated by Univerisity or course policy.</description>
